@@ -1,6 +1,6 @@
 # PerlinAngles
 
-Typescript PerlinAngles visualization
+Typescript visualization of a Perlin noise field applied to the rotation of a line matrix
 
 [![Demo](https://img.shields.io/badge/live-demo-green?style=flat-square)](https://timmoth.com/showcase/zcaP_D0OMUi2gSYFfwnqeQ)
 
